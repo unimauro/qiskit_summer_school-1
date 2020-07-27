@@ -1,5 +1,7 @@
 # IBM QISKIT GLOBAL SUMMER SCHOOL
 
+No solution
+
 Youtube link to lectures - <a href="https://www.youtube.com/playlist?list=PLOFEBzvs-VvqPzAH4jwcHbV_rJz2_l9B6">QGSS_2020</a>
 
 
